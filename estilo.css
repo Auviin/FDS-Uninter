@@ -1,0 +1,32 @@
+h1{color:#2a628f;font-size: 50px;  text-align: center;font-family: Arial, Helvetica, sans-serif;}
+ h2{color:#1097e6;font-size: 25px;font-family: Arial, Helvetica, sans-serif;}
+  h3{color:hsl(212, 72%, 59%);font-size: 18px;font-family: Arial, Helvetica, sans-serif;}
+     
+       p{font-size: 20px;text-align: justify;font-family: Arial, Helvetica, sans-serif;}
+        button{font-size: 18px;font-family: Arial, Helvetica, sans-serif;}
+         #mensagem{
+            font-size: 17px;font-family: Arial, Helvetica, sans-serif;}
+
+     body{
+        background-color: #e0f8fc;}
+     
+        ul li {margin-bottom: 15px;font-family: Arial, Helvetica, sans-serif;}
+     
+      img{ max-width:600px;;
+        border-radius: 10px;
+      height: auto}
+        
+      table{width:300px;
+            border-collapse: collapse;font-family: Arial, Helvetica, sans-serif;
+         border: 1px solid #555;}
+        th{ background-color: hsl(212, 26%, 42%); border: 1px solid #555;font-family: Arial, Helvetica, sans-serif;}  
+        td{padding: 10px; border: 1px solid #555;} 
+        a{ font-size: 30px;font-family: Arial, Helvetica, sans-serif;
+            color: #2a628f;
+        text-decoration: underline;
+         transition: color 0.3s ease;}
+         a:hover{color: #01142c;}     
+        
+
+        
+        
